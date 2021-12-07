@@ -23,4 +23,4 @@ if(req.url === '/home' || req.url ==='/' ){
 res.end();
    
 
-}).listen(8080, () => {console.log("server started at port 8080")});
+}).listen(process.env.PORT, () => {console.log("server started")});
