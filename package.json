@@ -1,1 +1,21 @@
-{}
+{
+  "name": "js",
+  "version": "1.0.0",
+  "main": "filelib.js",
+  "devDependencies": {},
+  "scripts": {
+    "start":"node lib.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prathiksha-Nataraja/fruits.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prathiksha-Nataraja/fruits/issues"
+  },
+  "homepage": "https://github.com/Prathiksha-Nataraja/fruits#readme",
+  "description": ""
+}
